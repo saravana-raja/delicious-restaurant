@@ -1,7 +1,3 @@
-
-
-
-
 .navbar {
     background-color: #1e2029;
   }
@@ -42,7 +38,7 @@
 
 .btn-light{
     background-color: white;
-  }
+}
 
 #abt_delicious {
     background-color: #1e2029;
@@ -52,12 +48,7 @@
     font-family: 'Dancing Script', cursive;
 }
 
-/*
-.about {
-    padding: 50px 0px 50px 250px;
-}
 
-*/
 .del_text {
     padding: 75px 50px 0px 0px;
     font-size: 20px;
